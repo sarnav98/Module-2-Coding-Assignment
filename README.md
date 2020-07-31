@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
-	<div>
+<div>
 <h1 style="text-align: center"> Module 2 Coding Assignment</h1>
 </div>
 <div>
