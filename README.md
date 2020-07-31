@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Module 2 Coding Assignment</title>
-</head>
 <body>
 	<div>
 <h1 style="text-align: center"> Module 2 Coding Assignment</h1>
